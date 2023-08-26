@@ -28,9 +28,10 @@ i {
   text-align: center;
 }
 .header {
-  background-image: url('../img/Wajima.jpg');
-  background-repeat: no-repeat, repeat;
-  /*background-attachment: fixed;*/
+  background-color: gray;
+/*  background-image: url('../img/Wajima.jpg');*/
+/*  background-repeat: no-repeat, repeat;*/
+/*  background-attachment: fixed;*/
   color: #FFF;
   max-height: 500px;
   height: 100%;
